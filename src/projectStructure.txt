@@ -1,0 +1,6 @@
+http://gh-blog.mybluemix.net/blogs/cokeSchlumpf/rethink-it/posts/web/best-practice-react-redux-project-structure.md
+https://www.nylas.com/blog/structuring-a-complex-react-redux-project
+https://stackoverflow.com/questions/49415446/react-redux-application-folder-structure
+
+immutable
+lodash

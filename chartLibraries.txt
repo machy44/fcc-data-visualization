@@ -1,0 +1,12 @@
+https://formidable.com/open-source/victory/docs/victory-scatter
+http://recharts.org/en-US/examples/SimpleScatterChart
+https://uber.github.io/react-vis/
+https://vx-demo.now.sh/heatmaps
+https://github.com/frappe/charts
+https://github.com/alibaba/BizCharts
+https://github.com/jerairrest/react-chartjs-2
+https://github.com/hustcc/echarts-for-react
+
+
+https://medium.com/@mtiller/open-source-plotting-libraries-primarily-for-react-c43cfa4dc90f
+https://devblog.classy.org/how-to-make-beautiful-graphs-with-vx-and-react-motion-6ffe7aecf6f3

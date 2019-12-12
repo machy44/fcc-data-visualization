@@ -1,0 +1,25 @@
+.chart-title {
+  display: inline;
+  text-transform: uppercase;
+}
+
+.chart-icon {
+  margin-right: 10px;
+}
+
+.chart-card-wrapper {
+  height: 50vh;
+  max-height: 500px;
+  width: 60vw;
+}
+
+@media only screen and (max-width: 992px) {
+  .chart-card-wrapper {
+    width: 90vw;
+  }
+}
+@media only screen and (max-width: 840px) and (orientation: landscape) {
+  .chart-card-wrapper {
+    height: 90vh;
+  }
+}

@@ -1,0 +1,14 @@
+@import "./constants/variables.scss";
+
+body {
+  font-family: $font-family;
+}
+.content-wrapper {
+  height: 100vh;
+  width: 100vw;
+  // background-color: $background-color;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

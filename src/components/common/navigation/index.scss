@@ -1,0 +1,13 @@
+.navbar {
+  flex-direction: column;
+  .navbar-toggler {
+    align-self: flex-end;
+  }
+  .navbar-collapse {
+    .navbar-nav {
+      .nav-item {
+        align-self: center;
+      }
+    }
+  }
+}
